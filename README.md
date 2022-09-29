@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ,👋
+here is my [resume](https://www.cakeresume.com/s--ZlTKGmKKGsjV-MNxzRroNg--/marsen-lin)
 
 <!--
 **marsen/marsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
