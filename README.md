@@ -1,5 +1,5 @@
 ### Hi there ,👋
-here is my [resume](https://www.cakeresume.com/s--ZlTKGmKKGsjV-MNxzRroNg--/marsen-lin)
+here is my [resume](https://github.com/marsen/marsen/blob/main/EN.md)
 
 <!--
 **marsen/marsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
