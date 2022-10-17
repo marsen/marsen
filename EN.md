@@ -1,4 +1,4 @@
-# Resume En
+# Resume
 
 ## **林孟賢(Mark Lin)**
 
@@ -16,7 +16,7 @@ Blog : [https://blog.marsen.me/](https://blog.marsen.me/)
 
 ### TTFB-Lab , 2021.11 ~ Now
 
-Currently working as a senior engineer at TTFB-LAB, and my team is building a new catering ecosystem that combines web applications、App、POS、ERP、CRM, and KDS(Kitchen Display System)
+Currently working as a senior engineer at TTFB-LAB, we are building a new catering system that combines web applications、App、POS、ERP、CRM, and KDS(Kitchen Display System)
 The technical we are using include but not limited to the GCP(GKE、Cloud Run etc …)、Docker、GO、Nodejs and C#、React、Flutter、Firebase and Gitlab as our CI/CD services.
 
 ### AltiGen Inc , 2019.3 ~ 2021.11
