@@ -1,13 +1,13 @@
 # 林孟賢(Mark Lin)
-2010 至今專職網站專案與軟體產品開發
-可接受遠端工作，期望年薪 150 萬以上。
-為尊重目前服務的公司，上班時間恕無法接聽電話。未註明薪資範圍，請勿E-Mail來信。
-中原大學應用數學系畢。
-中文(母語)、英語。
-手機 : +8869******99
-Blog : https://blog.marsen.me/
-Email : admin@marsen.me
-LinkedIn : https://www.linkedin.com/in/marsenlin/
+2010 至今專職網站專案與軟體產品開發  
+優先接受遠端工作，期望年薪 150 萬以上。  
+為尊重目前服務的公司，上班時間恕無法接聽電話。未註明薪資範圍，請勿E-Mail來信。  
+中原大學應用數學系畢。  
+中文(母語)、英語。  
+手機 : +8869******99  
+Blog : https://blog.marsen.me/  
+Email : admin@marsen.me  
+LinkedIn : https://www.linkedin.com/in/marsenlin/  
 
 ## 工作經驗
 
