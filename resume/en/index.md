@@ -61,8 +61,8 @@ The technical we are using include but not limited to the GCP(GKE、Cloud Run et
   - Member Centre
 - Result
   - 0 to 1 Created two new products (Notes and ERP)
-  - Members from 10,**_ 2012/7 to 27_,\*** 2015/7 grow 2600%
-  - Web Site Income 10\*,**_ 2012Q2 to 19,_**,\*\*\* 2015Q2 grow 19200%
+  - Members grow 2600% (10,xxx to 27x,xxx,since 2012Q2 to 2015Q2)
+  - Web Site income grow 19200% (10x,xxx to 19,xxx,xxx,since 2012Q2 to 2015Q2)
 - Management experience
   - Interview and new employee education and training
   - Optimized develop processes with version control
