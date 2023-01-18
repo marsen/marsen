@@ -2,7 +2,7 @@
 Here is my [resume](https://github.com/marsen/marsen/blob/main/resume/en/index.md),
 中文簡歷[見此](https://github.com/marsen/marsen/blob/main/resume/tw/index.md)
 
-Jobs and opportunities please message me or [create a new issue](https://github.com/marsen/marsen/issues/new) with the label `opportunity`
+Jobs and opportunities please message me or [create a new issue](https://github.com/marsen/marsen/issues/new) with the label `opportunity`. 
 工作與合作機會邀約，請私訊我或是[建立標籤為`opportunity`的新 issue](https://github.com/marsen/marsen/issues/new)
 <!--
 **marsen/marsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
