@@ -1,5 +1,7 @@
 ### Hi there ,👋
-here is my [resume](https://github.com/marsen/marsen/blob/main/resume/en/index.md)
+Here is my [resume](https://github.com/marsen/marsen/blob/main/resume/en/index.md),
+
+Jobs and opportunities please [create a new issue](https://github.com/marsen/marsen/issues/new) with the label `opportunity`
 
 <!--
 **marsen/marsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
