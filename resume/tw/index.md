@@ -11,11 +11,13 @@ LinkedIn : https://www.linkedin.com/in/marsenlin/
 
 ## 工作經驗
 
-### 快食尚(TTFB-LAB)，2021 年 11 月 - NOW
+### A****，2023/3月 ~ Now
+IP 相關產業，
+
+### 快食尚(TTFB-LAB)，2021 年 11 月 - 2023 年 2 月
 TTFB-LAB 是瓦城集團轉投資的公司，  
 主要使用雲原生與微服務的開發方式，使用 Google Cloud Platform。  
-我目前開發購物車、訂單、金流與 CRM 後台，產業屬於餐飲服務業。  
-我主要使用 Gitlab 建置 CI/CD，並使用 Docker、Golang 與 React 作為主要的開發技能。  
+我目前開發購物車、訂單、金流與 CRM 後台，產業屬於餐飲服務業。    
 
 ### AltiGen /AlphaCamp，2020 年 03 月 - 2021 年 11 月
 離開九易後在朋友介紹下來到 Altigen，  
