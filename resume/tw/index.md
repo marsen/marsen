@@ -12,7 +12,7 @@ LinkedIn : https://www.linkedin.com/in/marsenlin/
 ## 工作經驗
 
 ### A****，2023/3月 ~ Now
-IP 相關產業，
+IP 相關產業，相關內容暫時保密。
 
 ### 快食尚(TTFB-LAB)，2021 年 11 月 - 2023 年 2 月
 TTFB-LAB 是瓦城集團轉投資的公司，  
