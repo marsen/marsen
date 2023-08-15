@@ -80,17 +80,19 @@ B.S. in Department of Applied Mathematics
 
 ## Skills
 
-Programming : .NET Core and .NET Framework(C#)、Nodejs(JavaScript/TypeScript)、GO
+Programming : .NET Core and .NET Framework(C#)、Nodejs(JavaScript/TypeScript)、Golang
 
-Frontend : HTML/CSS/React(TypeScript)/JavaScript
+Frontend: HTML/CSS/JavaScript/React(TypeScript)/Vue(TypeScript)
 
-Cloud Service : GCP、AWS、Azure、K8S、Firebase
+Container: K8S、Docker
 
-CI/CD : Gitlab、Github、Jenkins
+Cloud Service : GCP、AWS、Azure、Firebase
+
+CI/CD: Gitlab、Github、Jenkins
 
 Testing : Unit Tests、TDD(ATDD)、BDD
 
-Version Control : Git 、SVN
+Version Control: Git 、SVN
 
 Database: : MySQL、MsSQL、PostgreSQL、MongoDB、Redis
 
