@@ -14,7 +14,7 @@ LinkedIn : https://www.linkedin.com/in/marsenlin/
 ### A****，2023 年 3月 ~ Now
 IP 相關產業，相關內容暫時保密，開始導入 AI 工具進如開發流程。
 
-### 顧問與創業期，2020 年 03 月 - 2023 年 5 月
+### 顧問與創業期，2020 年 03 月 - Now
 
 離開九易後我試著調整工作形態，加入許多不同的新創團隊，  
 有跨國的團隊，有時需要開發兼任 PM，有時需要參與股東會議參與標案或是技術比賽，  
@@ -83,6 +83,24 @@ CMoney 是一間理財服務的公司，打造了一個 toB 的金融服務產�
 全國歸戶作業
 
 ### 2010 年之前...(就學、當兵、資策會)
+
+### Skills Set
+Programming : .NET Core and .NET Framework(C#)、Nodejs(JavaScript/TypeScript)、Golang、Php(Laravel)
+
+Frontend: HTML/CSS/JavaScript/React(TypeScript)/Vue(TypeScript)
+
+Container: K8S、Docker
+
+Cloud Service : GCP、AWS、Azure、Firebase
+
+CI/CD: Gitlab、Github、Jenkins
+
+Version Control: Git 、SVN
+
+Database: MySQL、MsSQL、PostgreSQL、MongoDB、Redis
+
+Architechture & Quanlity & Project Managment: 
+ TDD(BDD、ATDD)、Refatoring、XP、Scrum、Kanban、Leading
 
 ## 關於我
 
