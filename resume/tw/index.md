@@ -84,7 +84,8 @@ CMoney 是一間理財服務的公司，打造了一個 toB 的金融服務產�
 
 ### 2010 年之前...(就學、當兵、資策會)
 
-### Skills Set
+## Skills Set
+
 Programming : .NET Core and .NET Framework(C#)、Nodejs(JavaScript/TypeScript)、Golang、Php(Laravel)
 
 Frontend: HTML/CSS/JavaScript/React(TypeScript)/Vue(TypeScript)
@@ -99,8 +100,9 @@ Version Control: Git 、SVN
 
 Database: MySQL、MsSQL、PostgreSQL、MongoDB、Redis
 
-Architechture & Quanlity & Project Managment: 
- TDD(BDD、ATDD)、Refatoring、XP、Scrum、Kanban、Leading
+Architechture & Quanlity: TDD(BDD、ATDD)、Refatoring
+
+Project Management: XP、Scrum、Kanban
 
 ## 關於我
 
