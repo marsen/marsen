@@ -14,16 +14,39 @@ Blog : [https://blog.marsen.me/](https://blog.marsen.me/)
 
 ## Work Experiences
 
-### TTFB-Lab , 2021.11 ~ Now
+### A****, March 2023 ~ Now
+In the IP-related industry, the specific details are temporarily confidential.  
+We have started incorporating AI tools into the development process.
 
-Currently working as a senior engineer at TTFB-LAB, we are building a new catering system that combines web applications、App、POS、ERP、CRM, and KDS(Kitchen Display System)
-The technical we are using include but not limited to the GCP(GKE、Cloud Run etc …)、Docker、GO、Nodejs and C#、React、Flutter、Firebase and Gitlab as our CI/CD services.
+### Consulting and Entrepreneurship, March 2020 - Now
+After leaving Jiuyi, I attempted to adjust my work style and joined various startup teams.   
+These teams included international ones, where I sometimes had to work as both a developer and project manager,   
+participate in shareholder meetings, engage in bidding processes or technical competitions,   
+and even invest my own funds. I encountered both traditional and cutting-edge industries during this process,  
+which broadened my horizons and deepened my understanding of the mutual influence of software engineering and other industries.   
+To supplement my income during entrepreneurship, I also continued to work part-time as a teaching assistant at a coding school,   
+allowing me to gain insights from career changers from different industries and engage with young students.
 
-### AltiGen Inc , 2019.3 ~ 2021.11
+#### AltiGen
+Due to the team being spread across the United States (East and West coasts), the United Kingdom, Nepal, and Taiwan,   
+and considering the impact of the pandemic, I participated in my first fully remote team development here.   
+This mode of development required greater self-management and English communication skills.   
+We primarily used Microsoft's cloud service, Azure, for development, and skills related to frontend technologies such as React.  
 
-- Team Lead and Scrum Master in the Taipei team (less than 5 members)
-- Cooperate with US/UK/Nepal Team
-- Developed Microsoft Teams Applications Extension and e-Commerce site for AltiGen virtual telephone system
+#### AlphaCamp
+I worked remotely as a teaching assistant, primarily responsible for grading students' programming assignments and answering their questions.  
+I mainly used technologies such as Node.js and MySQL.   
+Students had a wide range of questions, so I needed to patiently guide them and establish standardized processes for quickly identifying errors.  
+I also assisted students in completing their final projects, helping them smoothly transition into the software industry.  
+
+#### TTFB-LAB
+
+TTFB-LAB is a startup company in the food service industry, backed by the Vacharachai Group.   
+We mainly adopted cloud-native and microservices development using the Google Cloud Platform.   
+We developed features such as shopping carts, orders, payment processing, and CRM backend systems, primarily using Golang and C#.
+
+#### CompareTech
+This is a friend's insurance startup company, and my involvement was in a consulting capacity. I assisted in implementing research and development (RD) development processes.
 
 ### 91 APP Inc , 2015.6 ~ 2019.3
 
