@@ -17,6 +17,8 @@ Blog : [https://blog.marsen.me/](https://blog.marsen.me/)
 ### A****, March 2023 ~ Now
 In the IP-related industry, the specific details are temporarily confidential.  
 We have started incorporating AI tools into the development process.
+First-year management of a team of six, overcoming the challenge of innovating with limited resources, concurrently managing and enhancing existing old projects.
+Achieved a significant milestone with a 30 million bonus for a startup initiative and earned ISO 27001 certification.
 
 ### Consulting and Entrepreneurship, March 2020 - Now
 After leaving Jiuyi, I attempted to adjust my work style and joined various startup teams.   
