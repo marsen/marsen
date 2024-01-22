@@ -86,8 +86,8 @@ This is a friend's insurance startup company, and my involvement was in a consul
   - Member Centre
 - Result
   - 0 to 1 Created two new products (Notes and ERP)
-  - Members grow 2600% (10,xxx to 27x,xxx,since 2012Q2 to 2015Q2)
-  - Web Site income grow 19200% (10x,xxx to 19,xxx,xxx,since 2012Q2 to 2015Q2)
+  - Members grow 2600% (10k to 270k,since 2012Q2 to 2015Q2)
+  - Web Site income grow 19200% (100k to 19,200k,since 2012Q2 to 2015Q2)
 - Management experience
   - Interview and new employee education and training
   - Optimized develop processes with version control
@@ -95,7 +95,7 @@ This is a friend's insurance startup company, and my involvement was in a consul
 
 ### Wistron ITS, 2010 ~ 2012
 
-Maintained Taiwan CDC projects VACC & NIIS , managed requires and developed new features.
+Maintained Taiwan CDC projects VACC & NIIS, managed requirements and developed new features.
 
 ## Education
 
