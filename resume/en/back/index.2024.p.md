@@ -29,16 +29,6 @@ As a full-time member at TTFB-LAB, a food service startup under TTFB Company Lim
 
 During my tenure at AltiGen (2019-2021), I collaborated with a globally dispersed team across the U.S., U.K., Nepal, and Taiwan, adapting to a fully remote setup due to the pandemic. I refined self-management and English communication skills, working extensively with Microsoft's Azure for development and emphasizing React for frontend technologies.
 
-### Others 2019~2024
-
-#### AlphaCamp
-
-As a part-time remote teaching assistant, I specialized in grading programming assignments involving Node.js and MySQL. I established standardized procedures for efficient error identification, provided technical support, and assisted students in completing their final projects, facilitating a smooth transition into the software industry..  
-
-#### CompareTech
-
-I was part-time involved in a consulting capacity with a friend's insurance startup, specifically focusing on implementing research and development (R&D) processes.
-
 ### 91 APP Inc , 2015.6 ~ 2019.3
 
 - I developed and maintained the e-commerce systems in 2015 to 2016
