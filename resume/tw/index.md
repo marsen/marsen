@@ -4,7 +4,7 @@
 為尊重目前服務的公司，上班時間恕無法接聽電話。  
 中原大學應用數學系畢。  
 中文(母語)、英語。  
-手機 : +8869******99  
+手機 : +886912******  
 Blog : https://blog.marsen.me/  
 Email : admin@marsen.me  
 LinkedIn : https://www.linkedin.com/in/marsenlin/  
