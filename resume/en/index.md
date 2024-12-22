@@ -4,10 +4,10 @@
 
 Professional in Web Architecture Design and Development
 
-Experience: 14+ years in software development, 5+ years in management
-Preferred Work Arrangement: Remote
-Location: New Taipei City, Taiwan
-Languages: Native Chinese, Fluent English
+Experience: 14+ years in software development, 5+ years in management  
+Preferred Work Arrangement: Remote  
+Location: New Taipei City, Taiwan  
+Languages: Native Chinese, Fluent English  
 Education: Bachelor’s Degree in Applied Mathematics, Chung Yuan Christian University
 
 Contact Information:
