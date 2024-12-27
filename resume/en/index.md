@@ -27,7 +27,7 @@ Phone calls during business hours will not be answered out of respect for my cur
 Mar 2023 – Present | IP-related industry (Details Confidential)
 
 Implemented AI tools into the development process
-Managed 1 direct reports and a 15-member team within a company of ~30 employees
+Managed 8 direct reports and a 15-member team within a company of ~30 employees
 #### Key Achievements:
 
 - 2023
