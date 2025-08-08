@@ -155,5 +155,5 @@ MySQL / PostgreSQL / MongoDB / Redis / MsSQL
 **方法論與流程：**  
 TDD(ATDD) / BDD / Refactoring / Scrum / Kanban / XP
 
-**AI:**
-Prompting / Claude / LLM / OCR 
+**AI:**  
+Prompting / Claude / LLM / OCR / MCP
