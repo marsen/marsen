@@ -1,4 +1,5 @@
 # 林孟賢(Mark Lin)
+
 專職網站架構設計與開發，開發 15 年/管理 6 年以上經驗  
 優先接受遠端工作，未註明薪資範圍，請勿 E-Mail 來信。  
 為尊重目前服務的公司，上班時間恕無法接聽電話。  
@@ -8,6 +9,18 @@
 Blog : https://blog.marsen.me/  
 Email : admin@marsen.me  
 LinkedIn : https://www.linkedin.com/in/marsenlin/  
+
+## 關於我
+
+我是一位專注於網站架構與系統開發的資深工程師，具備超過 15 年的開發實務與 6 年以上的技術團隊管理經驗。
+
+能在技術與商業之間取得平衡，協助團隊穩定交付並持續優化開發效率。
+
+現任新創公司 Teck Leader，帶領跨職能團隊完成多項從 0 到 1 的產品開發，並導入 AI 工具協助測試、重構與流程優化，提升交付速度與品質。
+
+技術範疇涵蓋前後端開發、雲端架構優化、Serverless 架構與 DevOps 自動化流程，能整合跨系統資源，提升穩定性與成本效益，靈活回應快速變動的產品需求。
+
+我擅長在高變動環境中辨識核心問題、推動實作方案並穩定團隊節奏。期待未來能與具備技術深度與策略視野的團隊合作，推動高影響力的產品與技術成長。
 
 ## 工作經驗
 
@@ -36,8 +49,6 @@ IP 相關產業技術長，相關內容暫時保密，開始導入 AI 工具進�
 - 成功獲得 3000 萬的新創專案獎金
 - 並通過 ISO 27001 的認証。
 - 改善雲端架構成本大幅減少 80 %，管理人數 10 以上。
-
-
 
 ### 顧問與創業期，2020 年 03 月 - Now
 同時兼有顧問職
@@ -101,43 +112,25 @@ CMoney 是一間理財服務的公司，打造了一個 toB 的金融服務產�
 
 ### 2010 年之前...(就學、當兵、資策會)
 
-## Skills Set
+## 🛠️ 技能總覽
 
-Programming : .NET Core and .NET Framework(C#)、Nodejs(JavaScript/TypeScript)、Golang、Php(Laravel)
+**後端技術：**  
+C#(.NET Core/.NET) / Node.js(TypeScript/JavaScript) / Golang / PHP (Laravel) / Python
 
-Frontend: HTML/CSS/JavaScript/React(TypeScript)/Vue(TypeScript)
+**前端框架：**  
+React (TypeScript) / Vue (TypeScript) / HTML / CSS / JavaScript
 
-Container: K8S、Docker
+**DevOps：**  
+Git (GitLab / GitHub) / Docker / Jenkins / K8S
 
-Cloud Service : GCP、AWS、Azure、Firebase
+**雲端平台：**  
+GCP / Azure / AWS / Firebase
 
-CI/CD: Gitlab、Github、Jenkins
+**資料庫：**  
+MySQL / PostgreSQL / MongoDB / Redis / MsSQL
 
-Version Control: Git 、SVN
+**方法論與流程：**  
+TDD(ATDD) / BDD / Refactoring / Scrum / Kanban / XP
 
-Database: MySQL、MsSQL、PostgreSQL、MongoDB、Redis
-
-Architechture & Quanlity: TDD(BDD、ATDD)、Refatoring
-
-Project Management: XP、Scrum、Kanban
-
-## 關於我
-
-我知道如何讓整個開發團隊一起提昇效率。 
-擁有強大的自我驅動力，善於設定並達成挑戰目標，對效率與高標準執行有高度要求。  
-熟悉敏捷、XP、GTD 等工具，能將資訊整理清晰有序，確保專案順利推進。  
-我擅長在規範與創造力之間取得平衡，具備靈活的應變能力與穩定的執行力，能在多變的環境中調整策略，帶領團隊達成成果。  
-偏好直率且高效的溝通方式，對目標與原則有高度堅持，適合協作與領導多樣性團隊。
-
-我的優點在於個性沉著冷靜、善於分析、勇敢直言，敬業樂群，喜歡新的挑戰；  
-擅長與人溝通、聆聽，整合不同技術，並選擇最合適之方案。   
-我對學習充滿熱情，在工作之餘，會參加不同研討會與社群，  
-並將學習到的新知分享應用在生活與工作中。
-讓我加入貴公司的團隊貢獻一己之長，將是你最好的選擇。 
-
-我的興趣包括跳舞、潛水與足球，喜歡嚐試新東西，有優秀的適應力與持續學習的熱情，
-對每件事投入相當的專注與熱忱; 
-這些多元的經歷不僅讓我認識不同國家的朋友，也豐富了我的視野與國際觀。
-
-
- 
+**AI:**
+Prompt / Claude / LLM / OCR 
