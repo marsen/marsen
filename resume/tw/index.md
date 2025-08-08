@@ -133,4 +133,4 @@ MySQL / PostgreSQL / MongoDB / Redis / MsSQL
 TDD(ATDD) / BDD / Refactoring / Scrum / Kanban / XP
 
 **AI:**
-Prompt / Claude / LLM / OCR 
+Prompting / Claude / LLM / OCR 
