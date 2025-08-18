@@ -7,6 +7,7 @@ Jobs and opportunities please message me or [create a new issue](https://github.
 工作與合作機會邀約，請
 - [建立標籤為`opportunity`的新 issue](https://github.com/marsen/marsen/issues/new)
 - [Booking 線上會議](https://cal.com/marsen)
+- [預約 Balboa 練習](https://cal.com/marsen/balboa-practice)
 
 或私訊我
 <!--
