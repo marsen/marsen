@@ -8,6 +8,7 @@ Jobs and opportunities please message me or [create a new issue](https://github.
 - [建立標籤為`opportunity`的新 issue](https://github.com/marsen/marsen/issues/new)
 - [Booking 線上會議](https://cal.com/marsen)
 - [預約 Balboa 練習](https://cal.com/marsen/balboa-practice)
+- [邀請使用 Shopback | 購物享回饋 | 我拿獎勵金](https://app.shopback.com/kkZJa8WGnWb)
 
 或私訊我
 <!--
