@@ -60,7 +60,7 @@ LinkedIn : https://www.linkedin.com/in/marsenlin/
 ```text 
   協調跨國技術團隊共同開發，參與跨國全遠端(美國東西岸、英國、尼泊爾與台灣)的開發與團隊建立
   
-  主要使用微軟的雲服務 Azure 開發，前端 React、後端 C#
+  主要使用微軟的雲服務 Azure 開發，前端 React、後端 C#、Golang
   
   建立 Call Center 產品並成功上架 Microsoft Teams 銷售
 ```
