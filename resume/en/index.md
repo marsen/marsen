@@ -1,25 +1,26 @@
-# Resume
+# Mark Lin (林孟賢)
 
-## Mark Lin (林孟賢)
+**Engineering Manager | Head of Engineering | CTO**
 
-Engineering Manager | Head of Engineering | CTO
-Cloud Cost Optimization · AI-Driven Delivery · Distributed Remote Teams
+**Senior Engineer → Tech Lead → Engineering Manager → CTO**
 
-Software engineer since 2010; leading engineering teams since 2012, and distributed cross-border organizations since 2020.
+In software since 2010, leading people since 2012. Focused on cloud cost optimization, AI-driven delivery, and distributed remote teams.
 
-Location: New Taipei City, Taiwan
-Preferred Work Arrangement: Remote
-Languages: Chinese (Native), English (Professional working proficiency)
-Education: B.S. in Applied Mathematics, Chung Yuan Christian University
+### Profile
 
-Contact:
+- **Location**: New Taipei City, Taiwan
+- **Work arrangement**: Remote preferred
+- **Languages**: Chinese (Native), English (Professional working proficiency)
+- **Education**: B.S. in Applied Mathematics, Chung Yuan Christian University
 
-Email : <admin@marsen.me>
-LinkedIn : <https://www.linkedin.com/in/marsenlin/>
-GitHub : <https://github.com/marsen>
-Blog : <https://blog.marsen.me/>
+### Contact
 
-Note: please include a salary range in any email inquiries.
+- **Email**: <admin@marsen.me>
+- **LinkedIn**: <https://www.linkedin.com/in/marsenlin/>
+- **GitHub**: <https://github.com/marsen>
+- **Blog**: <https://blog.marsen.me/>
+
+*Please include a salary range in any email inquiries.*
 
 ## About
 
@@ -140,7 +141,8 @@ Jun 2012 – Jun 2015 | Financial Information Services
 
 Joined during the company's pivot from B2B to web, building the consumer product line from zero; later led the web team of 3–5 engineers.
 
-- Led development of blog, e-commerce, payment integration, membership, and ERP systems, contributing to roughly 200x revenue growth and 26x traffic growth on the platform
+- Led development of blog, e-commerce, payment integration, membership, and ERP systems; between 2012 Q2 and 2015 Q2 website revenue grew from ~NT$100K to ~NT$19.2M (roughly 192x) and membership from 10K to 270K (roughly 27x)
+- Built two new product lines from zero (blog platform and ERP) and integrated third-party payments including ECPay, 7-ELEVEN, and PayPal
 - Introduced Git version control (GitLab) and standardized the development process, reducing average project cycle time by 20%
 - Supported engineering demands as the company scaled from 20 to 100+ employees
 - Stack: ASP.NET (C#), JavaScript, MsSQL
