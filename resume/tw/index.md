@@ -1,17 +1,23 @@
-# 林孟賢(Mark Lin)
+# 林孟賢 (Mark Lin)
 
-技術主管｜工程經理｜技術長
-雲端成本優化 · AI 交付效率 · 跨國全遠端團隊
+**技術主管｜工程經理｜技術長**
 
-自 2010 年起投入軟體開發，2012 年起帶領工程團隊，2020 年起領導跨國全遠端組織。
-優先接受遠端工作，未註明薪資範圍，請勿 E-Mail 來信。
-中原大學應用數學系畢。
-中文（母語）、英文（工作級）。
+**資深工程師 → Tech Lead → 部門主管 → CTO**
 
-Blog : <https://blog.marsen.me/>
-Email : <admin@marsen.me>
-LinkedIn : <https://www.linkedin.com/in/marsenlin/>
-GitHub : <https://github.com/marsen>
+2010 年入行，2012 年起帶人。專長為雲端成本優化、AI 交付效率與跨國全遠端團隊管理。
+
+### 基本資料
+
+- **學歷**：中原大學 應用數學系
+- **語言**：中文（母語）、英文（工作級）
+- **工作型態**：優先接受遠端工作；來信請註明薪資範圍
+
+### 聯絡方式
+
+- **Email**：<admin@marsen.me>
+- **LinkedIn**：<https://www.linkedin.com/in/marsenlin/>
+- **GitHub**：<https://github.com/marsen>
+- **Blog**：<https://blog.marsen.me/>
 
 ## 關於我
 
@@ -132,7 +138,8 @@ GitHub : <https://github.com/marsen>
 
 於公司從 toB 轉型 Web 的初期加入，參與從零打造 toC 產品線，後期擔任 Web 組技術負責人，帶領 3–5 人團隊。
 
-- 主導 Blog 系統、商城系統、金流整合、會員系統與 ERP 等多項產品開發，帶動系統營收成長約 200 倍、流量成長 26 倍
+- 主導 Blog 系統、商城系統、金流整合、會員系統與 ERP 等多項產品開發；2012 Q2 至 2015 Q2 期間，網站營收由約新台幣 10 萬元成長至 1,920 萬元（約 192 倍），會員數由 1 萬成長至 27 萬（約 27 倍）
+- 從零建立兩條新產品線（Blog 系統與 ERP），並串接綠界、7-ELEVEN、PayPal 等第三方金流
 - 導入 Git 版本控制（GitLab），建立標準化開發流程，平均專案週期縮短 20%
 - 支援公司規模由 20 人擴張至 100+ 人期間的系統需求
 - 技術棧：ASP.NET（C#）、JavaScript、MsSQL
